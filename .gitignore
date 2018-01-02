@@ -19,7 +19,7 @@ gen### Java template
 .mtj.tmp/
 
 # Package Files #
-*.jar
+build/*.jar
 *.war
 *.ear
 *.zip
